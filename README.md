@@ -1,4 +1,4 @@
-# SDN Traffic Monitoring using Mininet and POX
+# SDN Mininet Project - Traffic Monitoring and Statistics Collector
 
 ## Overview
 This project demonstrates Software Defined Networking (SDN) using Mininet and a custom POX controller. It captures network traffic in real time, logs packet statistics to a CSV file, and visualizes traffic using Python.
